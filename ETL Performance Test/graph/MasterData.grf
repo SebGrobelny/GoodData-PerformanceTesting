@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><Graph author="sebastiangrobelny" created="Tue Jul 26 09:18:13 PDT 2016" guiVersion="3.4.4.P" id="1469731776507" licenseType="Commercial" modified="Wed Aug 17 15:25:18 PDT 2016" modifiedBy="sebastiangrobelny" name="MasterData" revision="1.27" showComponentDetails="true">
+<Global>
+<Metadata id="Metadata1" previewAttachment="${DATA_SOURCE_DIR}/masterData.csv" previewAttachmentCharset="ISO-8859-1">
+<Record fieldDelimiter="," label="masterData.csv" name="masterData_csv" previewAttachment="${DATA_SOURCE_DIR}/masterData.csv" previewAttachmentCharset="ISO-8859-1" quoteChar="both" quotedStrings="false" recordDelimiter="\r\n" skipSourceRows="1" type="delimited">
+<Field name="A1" type="string"/>
+<Field name="A2" type="string"/>
+<Field name="A3" type="string"/>
+<Field name="A4" type="string"/>
+<Field name="A5" type="string"/>
+<Field name="A6" type="string"/>
+<Field name="A7" type="string"/>
+<Field name="A8" type="string"/>
+<Field name="A9" type="string"/>
+<Field name="A10" type="string"/>
+<Field name="A11" type="string"/>
+<Field name="A12" type="string"/>
+<Field name="A13" type="string"/>
+<Field name="A14" type="string"/>
+<Field name="A15" type="string"/>
+<Field name="A16" type="string"/>
+<Field name="A17" type="string"/>
+<Field name="A18" type="string"/>
+<Field name="A19" type="string"/>
+<Field name="A20" type="string"/>
+<Field name="A21" type="string"/>
+<Field name="A22" type="string"/>
+<Field name="A23" type="string"/>
+<Field name="A24" type="string"/>
+<Field name="A25" type="string"/>
+<Field name="A26" type="string"/>
+<Field name="A27" type="string"/>
+<Field name="A28" type="string"/>
+<Field name="A29" type="string"/>
+<Field name="A30" type="string"/>
+<Field name="A31" type="string"/>
+<Field name="A32" type="string"/>
+<Field name="A33" type="string"/>
+<Field name="A34" type="string"/>
+<Field name="A35" type="string"/>
+<Field name="A36" type="string"/>
+<Field name="A37" type="string"/>
+<Field name="A38" type="string"/>
+<Field name="A39" type="string"/>
+<Field name="A40" type="string"/>
+<Field name="A41" type="string"/>
+<Field name="A42" type="string"/>
+<Field name="A43" type="string"/>
+<Field name="A44" type="string"/>
+<Field name="A45" type="string"/>
+<Field name="A46" type="string"/>
+<Field name="A47" type="string"/>
+<Field name="A48" type="string"/>
+<Field name="A49" type="string"/>
+<Field name="A50" type="string"/>
+<Field name="F1" type="string"/>
+<Field name="F2" type="string"/>
+<Field name="F3" type="string"/>
+<Field name="F4" type="string"/>
+<Field name="F5" type="string"/>
+<Field name="F6" type="string"/>
+<Field name="F7" type="string"/>
+<Field name="F8" type="string"/>
+<Field name="F9" type="string"/>
+<Field name="F10" type="string"/>
+<Field name="F11" type="string"/>
+<Field name="F12" type="string"/>
+<Field name="F13" type="string"/>
+<Field name="F14" type="string"/>
+<Field name="F15" type="string"/>
+<Field name="F16" type="string"/>
+<Field name="F17" type="string"/>
+<Field name="F18" type="string"/>
+<Field name="F19" type="string"/>
+<Field name="F20" type="string"/>
+<Field name="F21" type="string"/>
+<Field name="F22" type="string"/>
+<Field name="F23" type="string"/>
+<Field name="F24" type="string"/>
+<Field name="F25" type="string"/>
+<Field name="F26" type="string"/>
+<Field name="F27" type="string"/>
+<Field name="F28" type="string"/>
+<Field name="F29" type="string"/>
+<Field name="F30" type="string"/>
+<Field name="F31" type="string"/>
+<Field name="F32" type="string"/>
+<Field name="F33" type="string"/>
+<Field name="F34" type="string"/>
+<Field name="F35" type="string"/>
+<Field name="F36" type="string"/>
+<Field name="F37" type="string"/>
+<Field name="F38" type="string"/>
+<Field name="F39" type="string"/>
+<Field name="F40" type="string"/>
+<Field name="F41" type="string"/>
+<Field name="F42" type="string"/>
+<Field name="F43" type="string"/>
+<Field name="F44" type="string"/>
+<Field name="F45" type="string"/>
+<Field name="F46" type="string"/>
+<Field name="F47" type="string"/>
+<Field name="F48" type="string"/>
+<Field name="F49" type="string"/>
+<Field eofAsDelimiter="false" name="F50" type="string"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata2" previewAttachment="${DATA_SOURCE_DIR}/masterData.csv" previewAttachmentCharset="ISO-8859-1">
+<Record fieldDelimiter="," label="masterData.csv" name="masterData_csv" previewAttachment="${DATA_SOURCE_DIR}/masterData.csv" previewAttachmentCharset="ISO-8859-1" quoteChar="both" quotedStrings="false" recordDelimiter="\r\n" skipSourceRows="1" type="delimited">
+<Field name="A1" type="string"/>
+<Field name="A2" type="string"/>
+<Field name="A3" type="string"/>
+<Field name="A4" type="string"/>
+<Field name="A5" type="string"/>
+<Field name="A6" type="string"/>
+<Field name="A7" type="string"/>
+<Field name="A8" type="string"/>
+<Field name="A9" type="string"/>
+<Field name="A10" type="string"/>
+<Field name="A11" type="string"/>
+<Field name="A12" type="string"/>
+<Field name="A13" type="string"/>
+<Field name="A14" type="string"/>
+<Field name="A15" type="string"/>
+<Field name="A16" type="string"/>
+<Field name="A17" type="string"/>
+<Field name="A18" type="string"/>
+<Field name="A19" type="string"/>
+<Field name="A20" type="string"/>
+<Field name="A21" type="string"/>
+<Field name="A22" type="string"/>
+<Field name="A23" type="string"/>
+<Field name="A24" type="string"/>
+<Field name="A25" type="string"/>
+<Field name="A26" type="string"/>
+<Field name="A27" type="string"/>
+<Field name="A28" type="string"/>
+<Field name="A29" type="string"/>
+<Field name="A30" type="string"/>
+<Field name="A31" type="string"/>
+<Field name="A32" type="string"/>
+<Field name="A33" type="string"/>
+<Field name="A34" type="string"/>
+<Field name="A35" type="string"/>
+<Field name="A36" type="string"/>
+<Field name="A37" type="string"/>
+<Field name="A38" type="string"/>
+<Field name="A39" type="string"/>
+<Field name="A40" type="string"/>
+<Field name="A41" type="string"/>
+<Field name="A42" type="string"/>
+<Field name="A43" type="string"/>
+<Field name="A44" type="string"/>
+<Field name="A45" type="string"/>
+<Field name="A46" type="string"/>
+<Field name="A47" type="string"/>
+<Field name="A48" type="string"/>
+<Field name="A49" type="string"/>
+<Field name="A50" type="string"/>
+<Field name="F1" type="decimal"/>
+<Field name="F2" type="decimal"/>
+<Field name="F3" type="decimal"/>
+<Field name="F4" type="decimal"/>
+<Field name="F5" type="decimal"/>
+<Field name="F6" type="decimal"/>
+<Field name="F7" type="decimal"/>
+<Field name="F8" type="decimal"/>
+<Field name="F9" type="decimal"/>
+<Field name="F10" type="decimal"/>
+<Field name="F11" type="decimal"/>
+<Field name="F12" type="decimal"/>
+<Field name="F13" type="decimal"/>
+<Field name="F14" type="decimal"/>
+<Field name="F15" type="decimal"/>
+<Field name="F16" type="decimal"/>
+<Field name="F17" type="decimal"/>
+<Field name="F18" type="decimal"/>
+<Field name="F19" type="decimal"/>
+<Field name="F20" type="decimal"/>
+<Field name="F21" type="decimal"/>
+<Field name="F22" type="decimal"/>
+<Field name="F23" type="decimal"/>
+<Field name="F24" type="decimal"/>
+<Field name="F25" type="decimal"/>
+<Field name="F26" type="decimal"/>
+<Field name="F27" type="decimal"/>
+<Field name="F28" type="decimal"/>
+<Field name="F29" type="decimal"/>
+<Field name="F30" type="decimal"/>
+<Field name="F31" type="decimal"/>
+<Field name="F32" type="decimal"/>
+<Field name="F33" type="decimal"/>
+<Field name="F34" type="decimal"/>
+<Field name="F35" type="decimal"/>
+<Field name="F36" type="decimal"/>
+<Field name="F37" type="decimal"/>
+<Field name="F38" type="decimal"/>
+<Field name="F39" type="decimal"/>
+<Field name="F40" type="decimal"/>
+<Field name="F41" type="decimal"/>
+<Field name="F42" type="decimal"/>
+<Field name="F43" type="decimal"/>
+<Field name="F44" type="decimal"/>
+<Field name="F45" type="decimal"/>
+<Field name="F46" type="decimal"/>
+<Field name="F47" type="decimal"/>
+<Field name="F48" type="decimal"/>
+<Field name="F49" type="decimal"/>
+<Field eofAsDelimiter="false" name="F50" type="string"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata3" previewAttachment="${PROJECT}/masterData.csv" previewAttachmentCharset="ISO-8859-1">
+<Record fieldDelimiter="," label="masterData.csv" name="masterData_csv" previewAttachment="${PROJECT}/masterData.csv" previewAttachmentCharset="ISO-8859-1" quoteChar="both" quotedStrings="false" recordDelimiter="\r\n" skipSourceRows="1" type="delimited">
+<Field name="A1" type="string"/>
+<Field name="A2" type="string"/>
+<Field name="A3" type="string"/>
+<Field name="A4" type="string"/>
+<Field name="A5" type="string"/>
+<Field name="A6" type="string"/>
+<Field name="A7" type="string"/>
+<Field name="A8" type="string"/>
+<Field name="A9" type="string"/>
+<Field name="A10" type="string"/>
+<Field name="A11" type="string"/>
+<Field name="A12" type="string"/>
+<Field name="A13" type="string"/>
+<Field name="A14" type="string"/>
+<Field name="A15" type="string"/>
+<Field name="A16" type="string"/>
+<Field name="A17" type="string"/>
+<Field name="A18" type="string"/>
+<Field name="A19" type="string"/>
+<Field name="A20" type="string"/>
+<Field name="A21" type="string"/>
+<Field name="A22" type="string"/>
+<Field name="A23" type="string"/>
+<Field name="A24" type="string"/>
+<Field name="A25" type="string"/>
+<Field name="A26" type="string"/>
+<Field name="A27" type="string"/>
+<Field name="A28" type="string"/>
+<Field name="A29" type="string"/>
+<Field name="A30" type="string"/>
+<Field name="A31" type="string"/>
+<Field name="A32" type="string"/>
+<Field name="A33" type="string"/>
+<Field name="A34" type="string"/>
+<Field name="A35" type="string"/>
+<Field name="A36" type="string"/>
+<Field name="A37" type="string"/>
+<Field name="A38" type="string"/>
+<Field name="A39" type="string"/>
+<Field name="A40" type="string"/>
+<Field name="A41" type="string"/>
+<Field name="A42" type="string"/>
+<Field name="A43" type="string"/>
+<Field name="A44" type="string"/>
+<Field name="A45" type="string"/>
+<Field name="A46" type="string"/>
+<Field name="A47" type="string"/>
+<Field name="A48" type="string"/>
+<Field name="A49" type="string"/>
+<Field name="A50" type="string"/>
+<Field name="F1" type="decimal"/>
+<Field name="F2" type="decimal"/>
+<Field name="F3" type="decimal"/>
+<Field name="F4" type="decimal"/>
+<Field name="F5" type="decimal"/>
+<Field name="F6" type="decimal"/>
+<Field name="F7" type="decimal"/>
+<Field name="F8" type="decimal"/>
+<Field name="F9" type="decimal"/>
+<Field name="F10" type="decimal"/>
+<Field name="F11" type="decimal"/>
+<Field name="F12" type="decimal"/>
+<Field name="F13" type="decimal"/>
+<Field name="F14" type="decimal"/>
+<Field name="F15" type="decimal"/>
+<Field name="F16" type="decimal"/>
+<Field name="F17" type="decimal"/>
+<Field name="F18" type="decimal"/>
+<Field name="F19" type="decimal"/>
+<Field name="F20" type="decimal"/>
+<Field name="F21" type="decimal"/>
+<Field name="F22" type="decimal"/>
+<Field name="F23" type="decimal"/>
+<Field name="F24" type="decimal"/>
+<Field name="F25" type="decimal"/>
+<Field name="F26" type="decimal"/>
+<Field name="F27" type="decimal"/>
+<Field name="F28" type="decimal"/>
+<Field name="F29" type="decimal"/>
+<Field name="F30" type="decimal"/>
+<Field name="F31" type="decimal"/>
+<Field name="F32" type="decimal"/>
+<Field name="F33" type="decimal"/>
+<Field name="F34" type="decimal"/>
+<Field name="F35" type="decimal"/>
+<Field name="F36" type="decimal"/>
+<Field name="F37" type="decimal"/>
+<Field name="F38" type="decimal"/>
+<Field name="F39" type="decimal"/>
+<Field name="F40" type="decimal"/>
+<Field name="F41" type="decimal"/>
+<Field name="F42" type="decimal"/>
+<Field name="F43" type="decimal"/>
+<Field name="F44" type="decimal"/>
+<Field name="F45" type="decimal"/>
+<Field name="F46" type="decimal"/>
+<Field name="F47" type="decimal"/>
+<Field name="F48" type="decimal"/>
+<Field name="F49" type="decimal"/>
+<Field eofAsDelimiter="false" name="F50" type="string"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata4" previewAttachment="${PROJECT}/masterData.csv" previewAttachmentCharset="ISO-8859-1">
+<Record fieldDelimiter="," label="masterData.csv" name="masterData_csv" previewAttachment="${PROJECT}/masterData.csv" previewAttachmentCharset="ISO-8859-1" quoteChar="both" quotedStrings="false" recordDelimiter="\r\n" skipSourceRows="1" type="delimited">
+<Field name="A1" type="string"/>
+<Field name="A2" type="string"/>
+<Field name="A3" type="string"/>
+<Field name="A4" type="string"/>
+<Field name="A5" type="string"/>
+<Field name="A6" type="string"/>
+<Field name="A7" type="string"/>
+<Field name="A8" type="string"/>
+<Field name="A9" type="string"/>
+<Field name="A10" type="string"/>
+<Field name="A11" type="string"/>
+<Field name="A12" type="string"/>
+<Field name="A13" type="string"/>
+<Field name="A14" type="string"/>
+<Field name="A15" type="string"/>
+<Field name="A16" type="string"/>
+<Field name="A17" type="string"/>
+<Field name="A18" type="string"/>
+<Field name="A19" type="string"/>
+<Field name="A20" type="string"/>
+<Field name="A21" type="string"/>
+<Field name="A22" type="string"/>
+<Field name="A23" type="string"/>
+<Field name="A24" type="string"/>
+<Field name="A25" type="string"/>
+<Field name="A26" type="string"/>
+<Field name="A27" type="string"/>
+<Field name="A28" type="string"/>
+<Field name="A29" type="string"/>
+<Field name="A30" type="string"/>
+<Field name="A31" type="string"/>
+<Field name="A32" type="string"/>
+<Field name="A33" type="string"/>
+<Field name="A34" type="string"/>
+<Field name="A35" type="string"/>
+<Field name="A36" type="string"/>
+<Field name="A37" type="string"/>
+<Field name="A38" type="string"/>
+<Field name="A39" type="string"/>
+<Field name="A40" type="string"/>
+<Field name="A41" type="string"/>
+<Field name="A42" type="string"/>
+<Field name="A43" type="string"/>
+<Field name="A44" type="string"/>
+<Field name="A45" type="string"/>
+<Field name="A46" type="string"/>
+<Field name="A47" type="string"/>
+<Field name="A48" type="string"/>
+<Field name="A49" type="string"/>
+<Field name="A50" type="string"/>
+<Field name="F1" type="string"/>
+<Field name="F2" type="decimal"/>
+<Field name="F3" type="decimal"/>
+<Field name="F4" type="decimal"/>
+<Field name="F5" type="decimal"/>
+<Field name="F6" type="decimal"/>
+<Field name="F7" type="decimal"/>
+<Field name="F8" type="decimal"/>
+<Field name="F9" type="decimal"/>
+<Field name="F10" type="decimal"/>
+<Field name="F11" type="decimal"/>
+<Field name="F12" type="decimal"/>
+<Field name="F13" type="decimal"/>
+<Field name="F14" type="decimal"/>
+<Field name="F15" type="decimal"/>
+<Field name="F16" type="decimal"/>
+<Field name="F17" type="decimal"/>
+<Field name="F18" type="decimal"/>
+<Field name="F19" type="decimal"/>
+<Field name="F20" type="decimal"/>
+<Field name="F21" type="decimal"/>
+<Field name="F22" type="decimal"/>
+<Field name="F23" type="decimal"/>
+<Field name="F24" type="decimal"/>
+<Field name="F25" type="decimal"/>
+<Field name="F26" type="decimal"/>
+<Field name="F27" type="decimal"/>
+<Field name="F28" type="decimal"/>
+<Field name="F29" type="decimal"/>
+<Field name="F30" type="decimal"/>
+<Field name="F31" type="decimal"/>
+<Field name="F32" type="decimal"/>
+<Field name="F33" type="decimal"/>
+<Field name="F34" type="decimal"/>
+<Field name="F35" type="decimal"/>
+<Field name="F36" type="decimal"/>
+<Field name="F37" type="decimal"/>
+<Field name="F38" type="decimal"/>
+<Field name="F39" type="decimal"/>
+<Field name="F40" type="decimal"/>
+<Field name="F41" type="decimal"/>
+<Field name="F42" type="decimal"/>
+<Field name="F43" type="decimal"/>
+<Field name="F44" type="decimal"/>
+<Field name="F45" type="decimal"/>
+<Field name="F46" type="decimal"/>
+<Field name="F47" type="decimal"/>
+<Field name="F48" type="decimal"/>
+<Field name="F49" type="decimal"/>
+<Field eofAsDelimiter="false" name="F50" type="decimal"/>
+</Record>
+</Metadata>
+<Metadata id="Metadata0" previewAttachmentCharset="ISO-8859-1">
+<Record fieldDelimiter="|" name="recordName1" previewAttachmentCharset="ISO-8859-1" recordDelimiter="\n" type="delimited">
+<Field name="field1" type="string"/>
+</Record>
+</Metadata>
+<Property fileURL="workspace.prm" id="GraphParameter0"/>
+<Note alignment="1" backgroundColorB="225" backgroundColorG="255" backgroundColorR="255" enabled="true" folded="false" height="181" id="Note0" textColorB="0" textColorG="0" textColorR="0" textFontSize="12" title="L3 Full Load Mapping" titleColorB="0" titleColorG="0" titleColorR="0" titleFontSize="14" width="758" x="0" y="266"/>
+<Note alignment="1" backgroundColorB="225" backgroundColorG="255" backgroundColorR="255" enabled="true" folded="false" height="100" id="Note2" textColorB="0" textColorG="0" textColorR="0" textFontSize="12" title="L2 Mapping" titleColorB="0" titleColorG="0" titleColorR="0" titleFontSize="14" width="758" x="0" y="152"/>
+<Note alignment="1" backgroundColorB="225" backgroundColorG="255" backgroundColorR="255" enabled="true" folded="false" height="151" id="Note1" textColorB="0" textColorG="0" textColorR="0" textFontSize="12" title="L1 Mapping" titleColorB="0" titleColorG="0" titleColorR="0" titleFontSize="14" width="758" x="0" y="-9"/>
+<Dictionary/>
+</Global>
+<Phase number="0">
+<Node enabled="disabled" guiName="CSV Reader" guiX="239" guiY="179" id="CSV_READER" type="DATA_READER"/>
+<Node enabled="disabled" guiName="CSV Reader" guiX="271" guiY="54" id="CSV_READER1" type="DATA_READER"/>
+<Node baseURL=" https://${GDC_LOGIN}:${GDC_PASS}@secure-di.gooddata.com/project-uploads/${GDC_PROJECT_ID}/waiting/masterData.csv" destination="${DATA_DIR}" enabled="enabled" guiName="File Download" guiX="37" guiY="321" id="FILE_DOWNLOAD" type="FILE_DOWNLOAD"/>
+<Node baseURL=" https://${GDC_LOGIN}:${GDC_PASS}@secure-di.gooddata.com/project-uploads/${GDC_PROJECT_ID}/waiting/masterData.csv" destination="${DATA_DIR}" enabled="enabled" guiName="File Download" guiX="38" guiY="11" id="FILE_DOWNLOAD1" type="FILE_DOWNLOAD"/>
+<Node enabled="disabled" guiName="GD Dataset Writer" guiX="560" guiY="179" id="GD_DATASET_WRITER1" retriesInterval="60" retriesNumber="5" type="GD_DATASET_WRITER"/>
+<Node enabled="disabled" guiName="GD Dataset Writer" guiX="560" guiY="54" id="GD_DATASET_WRITER2" retriesInterval="60" retriesNumber="5" type="GD_DATASET_WRITER"/>
+</Phase>
+<Phase number="1">
+<Node dataset="dataset.d1" datasetFieldMappings="{&quot;gd_dataset&quot;:{&quot;datasetId&quot;:&quot;dataset.d1&quot;,&quot;datasetTitle&quot;:&quot;D1&quot;,&quot;attributes&quot;:[],&quot;referencedAttributes&quot;:[{&quot;gd_dataset_attribute&quot;:{&quot;id&quot;:&quot;attr.l1.a1&quot;,&quot;title&quot;:&quot;A01&quot;,&quot;prettyId&quot;:&quot;attr_l1_a1&quot;,&quot;displayForms&quot;:[{&quot;gd_dataset_attribute_display_form&quot;:{&quot;id&quot;:&quot;label.l1.a1&quot;,&quot;title&quot;:&quot;A01&quot;,&quot;prettyId&quot;:&quot;l1__a1&quot;,&quot;assignedMetadataField&quot;:null,&quot;referenceKey&quot;:false}}],&quot;assignedMetadataField&quot;:&quot;A1&quot;,&quot;selectedDisplayForm&quot;:{&quot;gd_dataset_attribute_display_form&quot;:{&quot;id&quot;:&quot;label.l1.a1&quot;,&quot;title&quot;:&quot;A01&quot;,&quot;prettyId&quot;:&quot;l1__a1&quot;,&quot;assignedMetadataField&quot;:null,&quot;referenceKey&quot;:false}}}}],&quot;dateAttributes&quot;:[],&quot;simpleFacts&quot;:[{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f01&quot;,&quot;title&quot;:&quot;F01&quot;,&quot;prettyId&quot;:&quot;f01&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F1&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f02&quot;,&quot;title&quot;:&quot;F02&quot;,&quot;prettyId&quot;:&quot;f02&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F2&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f03&quot;,&quot;title&quot;:&quot;F03&quot;,&quot;prettyId&quot;:&quot;f03&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F3&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f04&quot;,&quot;title&quot;:&quot;F04&quot;,&quot;prettyId&quot;:&quot;f04&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F4&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f05&quot;,&quot;title&quot;:&quot;F05&quot;,&quot;prettyId&quot;:&quot;f05&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F5&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f06&quot;,&quot;title&quot;:&quot;F06&quot;,&quot;prettyId&quot;:&quot;f06&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F6&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f07&quot;,&quot;title&quot;:&quot;F07&quot;,&quot;prettyId&quot;:&quot;f07&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F7&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f08&quot;,&quot;title&quot;:&quot;F08&quot;,&quot;prettyId&quot;:&quot;f08&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F8&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f09&quot;,&quot;title&quot;:&quot;F09&quot;,&quot;prettyId&quot;:&quot;f09&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F9&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f10&quot;,&quot;title&quot;:&quot;F10&quot;,&quot;prettyId&quot;:&quot;f10&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F10&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f11&quot;,&quot;title&quot;:&quot;F11&quot;,&quot;prettyId&quot;:&quot;f11&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F11&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f12&quot;,&quot;title&quot;:&quot;F12&quot;,&quot;prettyId&quot;:&quot;f12&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F12&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f13&quot;,&quot;title&quot;:&quot;F13&quot;,&quot;prettyId&quot;:&quot;f13&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F13&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f14&quot;,&quot;title&quot;:&quot;F14&quot;,&quot;prettyId&quot;:&quot;f14&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F14&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f15&quot;,&quot;title&quot;:&quot;F15&quot;,&quot;prettyId&quot;:&quot;f15&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F15&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f16&quot;,&quot;title&quot;:&quot;F16&quot;,&quot;prettyId&quot;:&quot;f16&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F16&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f17&quot;,&quot;title&quot;:&quot;F17&quot;,&quot;prettyId&quot;:&quot;f17&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F17&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f18&quot;,&quot;title&quot;:&quot;F18&quot;,&quot;prettyId&quot;:&quot;f18&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F18&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f19&quot;,&quot;title&quot;:&quot;F19&quot;,&quot;prettyId&quot;:&quot;f19&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F19&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f20&quot;,&quot;title&quot;:&quot;F20&quot;,&quot;prettyId&quot;:&quot;f20&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F20&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f21&quot;,&quot;title&quot;:&quot;F21&quot;,&quot;prettyId&quot;:&quot;f21&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F21&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f22&quot;,&quot;title&quot;:&quot;F22&quot;,&quot;prettyId&quot;:&quot;f22&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F22&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f23&quot;,&quot;title&quot;:&quot;F23&quot;,&quot;prettyId&quot;:&quot;f23&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F23&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f24&quot;,&quot;title&quot;:&quot;F24&quot;,&quot;prettyId&quot;:&quot;f24&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F24&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f25&quot;,&quot;title&quot;:&quot;F25&quot;,&quot;prettyId&quot;:&quot;f25&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F25&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f26&quot;,&quot;title&quot;:&quot;F26&quot;,&quot;prettyId&quot;:&quot;f26&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F26&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f27&quot;,&quot;title&quot;:&quot;F27&quot;,&quot;prettyId&quot;:&quot;f27&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F27&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f28&quot;,&quot;title&quot;:&quot;F28&quot;,&quot;prettyId&quot;:&quot;f28&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F28&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f29&quot;,&quot;title&quot;:&quot;F29&quot;,&quot;prettyId&quot;:&quot;f29&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F29&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f30&quot;,&quot;title&quot;:&quot;F30&quot;,&quot;prettyId&quot;:&quot;f30&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F30&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f31&quot;,&quot;title&quot;:&quot;F31&quot;,&quot;prettyId&quot;:&quot;f31&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F31&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f32&quot;,&quot;title&quot;:&quot;F32&quot;,&quot;prettyId&quot;:&quot;f32&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F32&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f33&quot;,&quot;title&quot;:&quot;F33&quot;,&quot;prettyId&quot;:&quot;f33&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F33&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f34&quot;,&quot;title&quot;:&quot;F34&quot;,&quot;prettyId&quot;:&quot;f34&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F34&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f35&quot;,&quot;title&quot;:&quot;F35&quot;,&quot;prettyId&quot;:&quot;f35&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F35&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f36&quot;,&quot;title&quot;:&quot;F36&quot;,&quot;prettyId&quot;:&quot;f36&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F36&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f37&quot;,&quot;title&quot;:&quot;F37&quot;,&quot;prettyId&quot;:&quot;f37&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F37&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f38&quot;,&quot;title&quot;:&quot;F38&quot;,&quot;prettyId&quot;:&quot;f38&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F38&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f39&quot;,&quot;title&quot;:&quot;F39&quot;,&quot;prettyId&quot;:&quot;f39&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F39&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f40&quot;,&quot;title&quot;:&quot;F40&quot;,&quot;prettyId&quot;:&quot;f40&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F40&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f41&quot;,&quot;title&quot;:&quot;F41&quot;,&quot;prettyId&quot;:&quot;f41&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F41&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f42&quot;,&quot;title&quot;:&quot;F42&quot;,&quot;prettyId&quot;:&quot;f42&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F42&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f43&quot;,&quot;title&quot;:&quot;F43&quot;,&quot;prettyId&quot;:&quot;f43&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F43&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f44&quot;,&quot;title&quot;:&quot;F44&quot;,&quot;prettyId&quot;:&quot;f44&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F44&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f45&quot;,&quot;title&quot;:&quot;F45&quot;,&quot;prettyId&quot;:&quot;f45&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F45&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f46&quot;,&quot;title&quot;:&quot;F46&quot;,&quot;prettyId&quot;:&quot;f46&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F46&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f47&quot;,&quot;title&quot;:&quot;F47&quot;,&quot;prettyId&quot;:&quot;f47&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F47&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f48&quot;,&quot;title&quot;:&quot;F48&quot;,&quot;prettyId&quot;:&quot;f48&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F48&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f49&quot;,&quot;title&quot;:&quot;F49&quot;,&quot;prettyId&quot;:&quot;f49&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F49&quot;}},{&quot;gd_dataset_fact&quot;:{&quot;id&quot;:&quot;fact.d1.f50&quot;,&quot;title&quot;:&quot;F50&quot;,&quot;prettyId&quot;:&quot;f50&quot;,&quot;type&quot;:&quot;DECIMAL&quot;,&quot;assignedMetadataField&quot;:&quot;F50&quot;}}],&quot;dateFacts&quot;:[],&quot;fieldsWithMetadataConflict&quot;:[],&quot;entitiesWithoutMetadata&quot;:[],&quot;entitiesWithoutValue&quot;:[],&quot;datesWithFactConflict&quot;:[],&quot;unassigneddateFacts&quot;:[]}}" enabled="enabled" guiName="GD Dataset Writer" guiX="558" guiY="309" id="GD_DATASET_WRITER" retriesInterval="60" retriesNumber="5" type="GD_DATASET_WRITER"/>
+<Node enabled="enabled" fileURL="${DATA_DIR}/masterData.csv" guiName="MasterData Reader" guiX="247" guiY="309" id="MASTER_DATA_READER" numRecords="5000000" type="DATA_READER"/>
+<Edge debugMode="true" fromNode="MASTER_DATA_READER:0" guiBendpoints="" guiRouter="Manhattan" id="Edge0" inPort="Port 0 (in)" metadata="Metadata3" outPort="Port 0 (output)" toNode="GD_DATASET_WRITER:0"/>
+</Phase>
+</Graph>

@@ -1,0 +1,18 @@
+##Project path
+#Tue Aug 16 13:59:04 PDT 2016
+PROJECT=.
+
+
+#Tue Aug 16 13:59:04 PDT 2016
+DATA_TMP_DIR=${PROJECT}/data/tmp
+GDC_PASS=Seabassegr043%2A
+DATA_SOURCE_DIR=${PROJECT}/data/source
+DATA_DIR=${PROJECT}/data
+GDC_LOGIN=sebastian.grobelny%40gooddata.com
+GRAPH_DIR=${PROJECT}/graph
+TRANS_DIR=${PROJECT}/trans
+MODEL_DIR=${PROJECT}/model
+GDC_PROJECT_ID=iz1qikwcojc5x9fl1f1keyqrok3m0swj
+DATA_GOODDATA_DIR=${PROJECT}/data/gooddata
+DATA_TRANSFORM_DIR=${PROJECT}/data/transform
+META_DIR=${PROJECT}/meta
